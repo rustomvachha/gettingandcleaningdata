@@ -1,5 +1,6 @@
-### gettingandcleaningdata
-Project for Getting and Cleaning Data 
+# README
+
+### gettingandcleaningdata repository
 
 ## list of files
 <b>run_Analysis.R</b>     This is the R script that reads the data and generates the tidy data
