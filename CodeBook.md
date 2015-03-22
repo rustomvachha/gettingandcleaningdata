@@ -2,6 +2,9 @@
 
 ##Explanation of all the variables and data to indicate all the variables and summaries calculated, along with units, and other relevant information
 
+Original project source http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+Source datahttps://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 List of variables for each subject and activity performed.
 
 1. tBodyAcc-mean()-X
