@@ -3,9 +3,11 @@
 ##Explanation of all the variables and data to indicate all the variables and summaries calculated, along with units, and other relevant information
 
 Original project source http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-Source datahttps://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Source data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Please see features_info.txt in the .zip file for detailed explaination of the variables below.
 
-List of variables for each subject and activity performed.
+List of variables (columns) for each subject and activity performed.
+The transformation from the source data into the tidy data is the AVERAGE taken across the multiple observations for each subject and activity grouping.
 
 1. tBodyAcc-mean()-X
 2. tBodyAcc-mean()-Y
