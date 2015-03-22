@@ -3,7 +3,7 @@
 ### gettingandcleaningdata repository
 
 ## list of files
-<b>run_Analysis.R</b>     This is the R script that reads the data and generates the tidy data
+<b>run_analysis.R</b>     This is the R script that reads the data and generates the tidy data. Comments are provided within the script.
 
 <b>README.md</b>          This file. Contains the list of files that are part of this project
 
