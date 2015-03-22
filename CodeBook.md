@@ -4,13 +4,13 @@
 
 List of variables for each subject and activity performed.
 
-1 tBodyAcc-mean()-X
-2 tBodyAcc-mean()-Y
-3 tBodyAcc-mean()-Z
-41 tGravityAcc-mean()-X
-42 tGravityAcc-mean()-Y
-43 tGravityAcc-mean()-Z
-81 tBodyAccJerk-mean()-X
+1. tBodyAcc-mean()-X
+2. tBodyAcc-mean()-Y
+3. tBodyAcc-mean()-Z
+4. tGravityAcc-mean()-X
+5. tGravityAcc-mean()-Y
+6. tGravityAcc-mean()-Z
+7. tBodyAccJerk-mean()-X
 82 tBodyAccJerk-mean()-Y
 83 tBodyAccJerk-mean()-Z
 121 tBodyGyro-mean()-X
