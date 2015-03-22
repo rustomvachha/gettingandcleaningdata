@@ -6,7 +6,19 @@ Original project source http://archive.ics.uci.edu/ml/datasets/Human+Activity+Re
 Source data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Please see features_info.txt in the .zip file for detailed explaination of the variables below.
+## INPUT FILES
+test/X_test.txt
+test/y_test.txt
+test/subject_test.txt
 
+train/X_train.txt
+train/y_train.txt
+train/subject_train.txt
+
+features.txt
+activity_labels.txt
+
+## Variables in output file
 List of variables (columns) for each subject and activity performed.
 The transformation from the source data into the tidy data is the AVERAGE taken across the multiple observations for each subject and activity grouping.
 
